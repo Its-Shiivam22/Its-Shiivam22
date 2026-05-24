@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Its-Shiivam22&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Shiivam22&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Its-Shiivam22&show_icons=true&theme=tokyonight&hide_border=true" height="165" loading="lazy" />
+  <img src="https://streak-stats.demolab.com?user=Its-Shiivam22&theme=tokyonight&hide_border=true" height="165" loading="lazy" />
 </p>
 
 ---
