@@ -24,7 +24,7 @@ My work is centered around **AWS, CI/CD, Linux, Docker, Kubernetes, monitoring, 
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,git,github,bash,python,mysql,jenkins,docker,kubernetes,prometheus,grafana,terraform" alt="Tech Stack" />
 </p>
 
@@ -139,17 +139,14 @@ Deployed a MySQL-connected banking microservices application on an AWS kOps Kube
 <a href="mailto:shivamekale07@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shiivam22" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Its-Shiivam22" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://shivamekale.in" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="48" height="48" alt="Portfolio Website" />
