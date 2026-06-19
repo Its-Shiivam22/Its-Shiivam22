@@ -4,13 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Its-Shiivam22&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/shiivam22">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://shivamekale.in">
-    <img src="https://img.shields.io/badge/Portfolio-shivamekale.in-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+ </p>
 
 ---
 
@@ -135,36 +129,45 @@ Deployed a MySQL-connected banking microservices application on an AWS kOps Kube
   <img src="https://streak-stats.demolab.com?user=Its-Shiivam22&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Shiivam22&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiivam22">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Ekale-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://shivamekale.in">
-    <img src="https://img.shields.io/badge/Portfolio-shivamekale.in-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:shivamekale07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shivamekale07%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+<div align="left">
+
+<a href="mailto:shivamekale07@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/shiivam22" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Its-Shiivam22" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://shivamekale.in" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="48" height="48" alt="Portfolio Website" />
+</a>
+
+</div>
+
 
 ---
 
 ## ⚡ Mindset
 
-<p align="center">
+<p align="left">
   <b><i>“Automate everything. Scale anything. Learn continuously.”</i></b>
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   ⭐ From <a href="https://github.com/Its-Shiivam22"><b>Its-Shiivam22</b></a>
 </p>
