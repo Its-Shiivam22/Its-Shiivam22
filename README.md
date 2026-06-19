@@ -69,6 +69,38 @@ My work is centered around **AWS, CI/CD, Linux, Docker, Kubernetes, monitoring, 
 
 ---
 
+## 🏆 Certification
+
+<div align="left">
+
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://www.credly.com/badges/9bf512e8-f7bb-4f2e-af60-298a7f478cae/public_url" target="_blank">
+        <img src="Repo/aws-certified-solutions-architect-associate.png" width="120" alt="AWS Certified Solutions Architect Associate Badge" />
+      </a>
+    </td>
+    <td>
+      <h3>AWS Certified Solutions Architect – Associate</h3>
+      <p>
+        Verified AWS certification demonstrating knowledge of designing
+        <b>secure, scalable, highly available, and cost-optimized cloud architectures</b>
+        using AWS services such as VPC, EC2, IAM, Load Balancing, Auto Scaling, RDS, and S3.
+      </p>
+      <p>
+        <b>Issued:</b> 24 March 2026
+      </p>
+      <a href="https://www.credly.com/badges/9bf512e8-f7bb-4f2e-af60-298a7f478cae/public_url" target="_blank">
+        <b>🔗 View Verified Credential</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1️⃣ AWS 3-Tier Application Deployment
